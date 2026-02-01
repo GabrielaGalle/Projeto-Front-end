@@ -1,16 +1,22 @@
-# React + Vite
+# Dashboard Comercial - CRM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um dashboard comercial desenvolvido em React, focado na gestão de leads e visualização de métricas.
 
-Currently, two official plugins are available:
+## Requisitos Entregues
+- [x] **Vite:** Projeto estruturado com o boilerplate do Vite para alta performance.
+- [x] **JSON Data:** Modelos de dados em formato JSON para simulação de banco de dados.
+- [x] **React Router:** Rotas configuradas para `/login`, `/dashboard` e `/leads`.
+- [x] **Tela de Login:** Formulário com validação visual integrado ao fluxo de autenticação.
+- [x] **Persistência:** Implementação de `localStorage` para manutenção da sessão do usuário via Token.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+- **React** (Frontend)
+- **Vite** (Build Tool)
+- **React Router Dom** (Navegação)
+- **CSS Modules / Styled Components** (Estilização)
 
-## React Compiler
+## Como rodar o projeto localmente
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/GabrielaGalle/Projeto-Front-end
