@@ -2,7 +2,7 @@
 
 Este projeto é um dashboard comercial desenvolvido em React, focado na gestão de leads e visualização de métricas.
 Vercel Deploy -> projeto-front-end-iota-weld.vercel.app
-Login: vendedor@revisão.com
+Login: vendedor@revisao.com
 Senha:123456
 
 ## Requisitos Entregues
